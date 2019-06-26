@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         webView = (WebView) findViewById(R.id.webView);
 
-        mtitle = (TextView) findViewById(R.id.title);
+        mtitle = (TextView)  findViewById(R.id.title);
         //商品id
         taokeUrl = "539848591176";
         //商品链接
